@@ -1,10 +1,12 @@
 # specify main menu items here
 
-- text: Home
+- text: Why Jasper?
   url: /
-- text: About
+- text: Enterprise
   url: /about
-- text: Contact
-  url: /contact
-- text: Blog
+- text: Features
+  url: /
+- text: Pricing
   url: /blog
+- text: Documentation
+  url: /contact
